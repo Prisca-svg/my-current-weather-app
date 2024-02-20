@@ -1,6 +1,6 @@
 body {
    font-family: "Roboto", sans-serif; 
-   background-color:beige
+   background-color:aliceblue;
 }
 .weather-app {
 background-color: white;
@@ -9,4 +9,28 @@ margin: 45px auto;
 max-width: 800px;
 box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
 border-radius: 16px;
+}
+.search-form{
+   display: block;
+}
+.search-form-input{
+   font-family: "Roboto", sans-serif; 
+   background-color:aliceblue;
+   padding: 20px 30px;
+   width: 60%;
+   border: none;
+   border-radius: 10px;
+   margin: 25px auto;  
+}
+.search-form-button{
+   background-color: aqua;
+   padding: 20px 30px;
+   font-family: "Roboto", sans-serif; 
+   margin: 25px auto;
+margin-left: 10px;s
+font-size: 25px;
+color: black;
+border: none;
+font-weight: bold;
+border-radius: 10px;
 }
