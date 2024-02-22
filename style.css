@@ -32,9 +32,9 @@ border-radius: 16px;
    margin-left:10px;
 }
 .weather-app-icon{
-      margin-top: 5px;
-      font-size: 45px;
-      margin-right: 3px;
+      margin-top: -10px;
+      width: 80px;
+      height: 80px;
    }
    .weather-app-degree{
       
@@ -50,7 +50,7 @@ header{
    margin-top: 5px;
 }
 a{
-color:aqua;
+color:blue;
 }
 .weather-data{
    display:flex;
@@ -70,13 +70,13 @@ color:aqua;
    margin: 25px auto;  
 }
 .search-form-button{
-   background-color: aqua;
+   background-color:blue;
    padding: 20px 30px;
    font-family: "Roboto", sans-serif; 
    margin: 25px auto;
 margin-left: 16px;
 font-size: 16px;
-color:black;
+color:whitesmoke;
 border: none;
 font-weight: bold;
 border-radius: 10px;
@@ -86,5 +86,5 @@ footer{
    padding: 30px 0 0 10px;
    text-align: center;
    font-size: 15px;
-   font-weight: bold;
+   
 }
